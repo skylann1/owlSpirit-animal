@@ -1,0 +1,1 @@
+alert("This is just shlnmzq's perspective, based on how shlnmzq feels.")
